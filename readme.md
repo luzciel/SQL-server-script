@@ -10,11 +10,11 @@ Asegúrate de tener Docker instalado en tu máquina. Puedes descargarlo desde ht
 - Clona este repositorio en tu máquina local.
 
 ```js
-git clone <URL_DEL_REPOSITORIO
+git clone <URL_DEL_REPOSITORIO>
 ```
 
 ```js
-git clone <URL_DEL_REPOSITORIO
+gcd <NOMBRE_DEL_PROYECTO>
 ```
 
 - Abre una terminal y ejecuta el siguiente comando para CONFIGURAR el entorno:
