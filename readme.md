@@ -14,7 +14,7 @@ git clone <URL_DEL_REPOSITORIO>
 ```
 
 ```js
-gcd <NOMBRE_DEL_PROYECTO>
+cd <NOMBRE_DEL_PROYECTO>
 ```
 
 - Abre una terminal y ejecuta el siguiente comando para CONFIGURAR el entorno:
